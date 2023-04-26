@@ -1,0 +1,140 @@
+{
+  "minigun.spinloop": {
+    "sounds": [
+      "minigun_spin_loop"
+    ],
+    "category": "player"
+  },
+  "minigun.loop": {
+    "sounds": [
+      "minigun_loop"
+    ],
+    "category": "player"
+  },
+  "groovy.aved": {
+    "category": "player",
+    "sounds": [{
+	  "name": "groovy_aved",
+      "weight": 2
+    },
+    {
+      "name": "null",
+      "weight": 16
+    }]
+  },
+  "groovy.aod": {
+    "category": "player",
+    "sounds": [{
+	  "name": "groovy_aod",
+      "weight": 2
+    },
+    {
+      "name": "null",
+      "weight": 16
+    }]
+  },
+  "ash.housewares": {
+    "category": "player",
+    "sounds": [{
+	  "name": "housewares",
+      "weight": 2
+    },
+    {
+      "name": "null",
+      "weight": 16
+    }]
+  },
+  "aura.loop": {
+    "sounds": [
+      "halo_aura"
+    ],
+    "category": "player"
+  },
+  "beetle.flight.loop": {
+    "sounds": [
+      "beetle_flight_loop"
+    ],
+    "category": "player"
+  },
+  "beetle.flight.start": {
+    "sounds": [
+      "beetle_flight_start"
+    ],
+    "category": "player"
+  },
+  "chainsaw.loop": {
+    "sounds": [
+      "chainsaw_loop"
+    ],
+    "category": "player"
+  },
+  "chainsaw.start": {
+    "sounds": [
+      "chainsaw_start"
+    ],
+    "category": "player"
+  },
+  "chainsaw.hit": {
+    "sounds": [
+      "chainsaw_hit"
+    ],
+    "category": "player"
+  },
+  "minigun.startup": {
+    "sounds": [
+      "minigun_start"
+    ],
+    "category": "player"
+  },
+  "minigun.winddown": {
+    "sounds": [
+      "minigun_wind_stop"
+    ],
+    "category": "player"
+  },
+  "minigun.windup": {
+    "sounds": [
+      "minigun_wind_start"
+    ],
+    "category": "player"
+  },
+  "freeze.breath.loop": {
+    "sounds": [
+      "freeze_breath_loop"
+    ],
+    "category": "player"
+  },
+  "heat.breath.loop": {
+    "sounds": [
+      "heat_breath_loop"
+    ],
+    "category": "player"
+  },
+  "shotgun.aim": {
+    "sounds": [
+      "shotgun_aim"
+    ],
+    "category": "player"
+  },
+  "shotgun.shoot": {
+    "sounds": [
+      "shotgun_shoot"
+    ],
+    "category": "player"
+  },
+  "zero.to.hero": {
+    "sounds": [
+	  {
+      "name": "zero_to_hero",
+	  "stream": true
+	  }
+    ],
+    "category": "player"
+  },
+  "breath.charge": {
+    "sounds": [
+      "breath_charge"
+    ],
+    "category": "player"
+  }
+}
