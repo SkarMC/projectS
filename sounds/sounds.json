@@ -56,6 +56,18 @@
     ],
     "category": "player"
   },
+  "beetle.blade.enable": {
+    "sounds": [
+      "beetle_blade_enable"
+    ],
+    "category": "player"
+  },
+  "buster.sword.enable": {
+    "sounds": [
+      "buster_sword_enable"
+    ],
+    "category": "player"
+  },
   "beetle.flight.start": {
     "sounds": [
       "beetle_flight_start"
