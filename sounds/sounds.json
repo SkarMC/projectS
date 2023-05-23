@@ -62,9 +62,27 @@
     ],
     "category": "player"
   },
+  "beetle.blade.disable": {
+    "sounds": [
+      "beetle_blade_disable"
+    ],
+    "category": "player"
+  },
   "buster.sword.enable": {
     "sounds": [
       "buster_sword_enable"
+    ],
+    "category": "player"
+  },
+  "buster.sword.crackle": {
+    "sounds": [
+      "buster_sword_crackle"
+    ],
+    "category": "player"
+  },
+  "scarab.enable": {
+    "sounds": [
+      "scarab_enable"
     ],
     "category": "player"
   },
