@@ -158,6 +158,12 @@
     ],
     "category": "player"
   },
+  "spit": {
+    "sounds": [
+      "spit"
+    ],
+    "category": "player"
+  },
   "zero.to.hero": {
     "sounds": [
 	  {
