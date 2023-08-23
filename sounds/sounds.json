@@ -164,6 +164,12 @@
     ],
     "category": "player"
   },
+  "skates.walk": {
+    "sounds": [
+      "skates"
+    ],
+    "category": "player"
+  },
   "zero.to.hero": {
     "sounds": [
 	  {
