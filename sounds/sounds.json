@@ -165,10 +165,15 @@
     "category": "player"
   },
   "skates.walk": {
-    "sounds": [
-      "skates"
-    ],
-    "category": "player"
+    "category": "player",
+    "sounds": [{
+	  "name": "skates",
+      "weight": 5
+    },
+    {
+      "name": "null",
+      "weight": 5
+    }]
   },
   "zero.to.hero": {
     "sounds": [
