@@ -165,7 +165,7 @@
     "category": "player"
   },
   "skates.walk": {
-    "sounds": [{
+    "sounds": [
       "skates"
     ],
     "category": "player"
