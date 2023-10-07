@@ -116,6 +116,12 @@
     ],
     "category": "player"
   },
+  "slam": {
+    "sounds": [
+      "slam"
+    ],
+    "category": "player"
+  },
   "minigun.startup": {
     "sounds": [
       "minigun_start"
@@ -176,6 +182,30 @@
       "name": "zero_to_hero",
 	  "stream": true
 	  }
+    ],
+    "category": "player"
+  },
+  "supergirl.start": {
+    "sounds": [
+      "supergirl_start"
+    ],
+    "category": "player"
+  },
+  "supergirl.loop": {
+    "sounds": [
+      "supergirl_loop"
+    ],
+    "category": "player"
+  },
+  "supergirl.stop": {
+    "sounds": [
+      "supergirl_stop"
+    ],
+    "category": "player"
+  },
+  "supergirl.charge": {
+    "sounds": [
+      "supergirl_charge"
     ],
     "category": "player"
   },
