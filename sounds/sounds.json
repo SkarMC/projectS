@@ -50,6 +50,42 @@
     ],
     "category": "player"
   },
+  "fnaf.jumpscare": {
+    "sounds": [
+      "fnaf_jumpscare"
+    ],
+    "category": "player"
+  },
+  "foxy.step": {
+    "sounds": [
+      "foxy_step"
+    ],
+    "category": "player"
+  },
+  "freddy.step": {
+    "sounds": [
+      "freddy_step"
+    ],
+    "category": "player"
+  },
+  "bonnie.step": {
+    "sounds": [
+      "bonnie_step"
+    ],
+    "category": "player"
+  },
+  "chica.step": {
+    "sounds": [
+      "chica_step"
+    ],
+    "category": "player"
+  },
+  "joint": {
+    "sounds": [
+      "joint"
+    ],
+    "category": "player"
+  },
   "bells.loop": {
     "sounds": [
       "sleigh_bells"
