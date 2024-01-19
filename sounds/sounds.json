@@ -80,6 +80,36 @@
     ],
     "category": "player"
   },
+  "a.major": {
+    "sounds": [
+      "notes/a_major"
+    ],
+    "category": "player"
+  },
+  "d.major": {
+    "sounds": [
+      "notes/d_major"
+    ],
+    "category": "player"
+  },
+  "c.major": {
+    "sounds": [
+      "notes/c_major"
+    ],
+    "category": "player"
+  },
+  "g.major": {
+    "sounds": [
+      "notes/g_major"
+    ],
+    "category": "player"
+  },
+  "e.major": {
+    "sounds": [
+      "notes/e_major"
+    ],
+    "category": "player"
+  },
   "joint": {
     "sounds": [
       "joint"
