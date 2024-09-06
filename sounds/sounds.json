@@ -56,13 +56,13 @@
     ],
     "category": "player"
   },
-  "fnaf.golden.freddy.jumpscare": {
+  "golden.freddy.jumpscare": {
     "sounds": [
       "fnaf/golden_freddy_jumpscare"
     ],
     "category": "player"
   },
-  "fnaf.golden.freddy.glitch": {
+  "golden.freddy.glitch": {
     "sounds": [
       "fnaf/golden_freddy_glitch"
     ],
@@ -125,6 +125,30 @@
   "joint": {
     "sounds": [
       "fnaf/joint"
+    ],
+    "category": "player"
+  },
+  "freddy.laugh.1": {
+    "sounds": [
+      "fnaf/freddy_laugh_1"
+    ],
+    "category": "player"
+  },
+  "freddy.laugh.2": {
+    "sounds": [
+      "fnaf/freddy_laugh_2"
+    ],
+    "category": "player"
+  },
+  "freddy.laugh.3": {
+    "sounds": [
+      "fnaf/freddy_laugh_3"
+    ],
+    "category": "player"
+  },
+  "golden.freddy.laugh": {
+    "sounds": [
+      "fnaf/golden_freddy_laugh"
     ],
     "category": "player"
   },
