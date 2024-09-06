@@ -52,49 +52,61 @@
   },
   "fnaf.jumpscare": {
     "sounds": [
-      "fnaf_jumpscare"
+      "fnaf/fnaf_jumpscare"
+    ],
+    "category": "player"
+  },
+  "fnaf.golden.freddy.jumpscare": {
+    "sounds": [
+      "fnaf/golden_freddy_jumpscare"
+    ],
+    "category": "player"
+  },
+  "fnaf.golden.freddy.glitch": {
+    "sounds": [
+      "fnaf/golden_freddy_glitch"
     ],
     "category": "player"
   },
   "foxy.step": {
     "sounds": [
-      "foxy_step"
+      "fnaf/foxy_step"
     ],
     "category": "player"
   },
   "freddy.step": {
     "sounds": [
-      "freddy_step"
+      "fnaf/freddy_step"
     ],
     "category": "player"
   },
   "bonnie.step": {
     "sounds": [
-      "bonnie_step"
+      "fnaf/bonnie_step"
     ],
     "category": "player"
   },
   "chica.step": {
     "sounds": [
-      "chica_step"
+      "fnaf/chica_step"
     ],
     "category": "player"
   },
   "a.major": {
     "sounds": [
-      "notes/a_major"
+      "fnaf/notes/a_major"
     ],
     "category": "player"
   },
   "d.major": {
     "sounds": [
-      "notes/d_major"
+      "fnaf/notes/d_major"
     ],
     "category": "player"
   },
   "c.major": {
     "sounds": [
-      "notes/c_major"
+      "fnaf/notes/c_major"
     ],
     "category": "player"
   },
@@ -112,7 +124,7 @@
   },
   "joint": {
     "sounds": [
-      "joint"
+      "fnaf/joint"
     ],
     "category": "player"
   },
