@@ -170,6 +170,18 @@
     ],
     "category": "player"
   },
+  "whispering.loop": {
+    "sounds": [
+      "whispering"
+    ],
+    "category": "player"
+  },
+  "music.box.loop": {
+    "sounds": [
+      "music_box"
+    ],
+    "category": "player"
+  },
   "bells.loop": {
     "sounds": [
       "sleigh_bells"
