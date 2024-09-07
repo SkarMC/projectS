@@ -152,6 +152,24 @@
     ],
     "category": "player"
   },
+  "groan.1": {
+    "sounds": [
+      "fnaf/groan_1"
+    ],
+    "category": "player"
+  },
+  "groan.2": {
+    "sounds": [
+      "fnaf/groan_2"
+    ],
+    "category": "player"
+  },
+  "groan.3": {
+    "sounds": [
+      "fnaf/groan_3"
+    ],
+    "category": "player"
+  },
   "bells.loop": {
     "sounds": [
       "sleigh_bells"
