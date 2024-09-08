@@ -172,13 +172,13 @@
   },
   "whispering.loop": {
     "sounds": [
-      "whispering"
+      "fnaf/whispering"
     ],
     "category": "player"
   },
   "music.box.loop": {
     "sounds": [
-      "music_box"
+      "fnaf/music_box"
     ],
     "category": "player"
   },
