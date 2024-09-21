@@ -170,6 +170,24 @@
     ],
     "category": "player"
   },
+  "foxy.sing.1": {
+    "sounds": [
+      "fnaf/foxy_song_1"
+    ],
+    "category": "player"
+  },
+  "foxy.sing.2": {
+    "sounds": [
+      "fnaf/foxy_song_2"
+    ],
+    "category": "player"
+  },
+  "foxy.sing.3": {
+    "sounds": [
+      "fnaf/foxy_song_3"
+    ],
+    "category": "player"
+  },
   "whispering.loop": {
     "sounds": [
       "fnaf/whispering"
