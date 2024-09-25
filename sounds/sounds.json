@@ -1,4 +1,10 @@
 {
+  "null": {
+    "sounds": [
+      "null"
+    ],
+    "category": "player"
+  },
   "minigun.spinloop": {
     "sounds": [
       "minigun_spin_loop"
@@ -10,39 +16,6 @@
       "minigun_loop"
     ],
     "category": "player"
-  },
-  "groovy.aved": {
-    "category": "player",
-    "sounds": [{
-	  "name": "groovy_aved",
-      "weight": 2
-    },
-    {
-      "name": "null",
-      "weight": 16
-    }]
-  },
-  "groovy.aod": {
-    "category": "player",
-    "sounds": [{
-	  "name": "groovy_aod",
-      "weight": 2
-    },
-    {
-      "name": "null",
-      "weight": 16
-    }]
-  },
-  "ash.housewares": {
-    "category": "player",
-    "sounds": [{
-	  "name": "housewares",
-      "weight": 2
-    },
-    {
-      "name": "null",
-      "weight": 16
-    }]
   },
   "aura.loop": {
     "sounds": [
