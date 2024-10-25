@@ -65,33 +65,57 @@
     ],
     "category": "player"
   },
-  "a.major": {
+  "note.a4.f4": {
     "sounds": [
-      "fnaf/notes/a_major"
+      "fnaf/notes/a4_f4"
     ],
     "category": "player"
   },
-  "d.major": {
+  "note.d3": {
     "sounds": [
-      "fnaf/notes/d_major"
+      "fnaf/notes/d3"
     ],
     "category": "player"
   },
-  "c.major": {
+  "note.a2": {
     "sounds": [
-      "fnaf/notes/c_major"
+      "fnaf/notes/a2"
     ],
     "category": "player"
   },
-  "g.major": {
+  "note.c3": {
     "sounds": [
-      "notes/g_major"
+      "fnaf/notes/c3"
     ],
     "category": "player"
   },
-  "e.major": {
+  "note.f3": {
     "sounds": [
-      "notes/e_major"
+      "fnaf/notes/f3"
+    ],
+    "category": "player"
+  },
+  "note.g4.d4": {
+    "sounds": [
+      "fnaf/notes/g4_d4"
+    ],
+    "category": "player"
+  },
+  "note.g4.e4": {
+    "sounds": [
+      "fnaf/notes/g4_e4"
+    ],
+    "category": "player"
+  },
+  "note.g3": {
+    "sounds": [
+      "fnaf/notes/g3"
+    ],
+    "category": "player"
+  },
+  "note.e3": {
+    "sounds": [
+      "fnaf/notes/e3"
     ],
     "category": "player"
   },
