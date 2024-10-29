@@ -41,6 +41,18 @@
     ],
     "category": "player"
   },
+  "golden.freddy.teleport": {
+    "sounds": [
+      "fnaf/golden_freddy_teleport"
+    ],
+    "category": "player"
+  },
+  "golden.freddy.telekinesis.loop": {
+    "sounds": [
+      "fnaf/golden_freddy_telekinesis_loop"
+    ],
+    "category": "player"
+  },
   "foxy.step": {
     "sounds": [
       "fnaf/foxy_step"
