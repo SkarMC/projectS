@@ -29,6 +29,12 @@
     ],
     "category": "player"
   },
+  "fnaf2.jumpscare": {
+    "sounds": [
+      "fnaf/fnaf2_jumpscare"
+    ],
+    "category": "player"
+  },
   "golden.freddy.jumpscare": {
     "sounds": [
       "fnaf/golden_freddy_jumpscare"
@@ -62,6 +68,12 @@
   "freddy.step": {
     "sounds": [
       "fnaf/freddy_step"
+    ],
+    "category": "player"
+  },
+  "toy.freddy.step": {
+    "sounds": [
+      "fnaf/toy_freddy_step"
     ],
     "category": "player"
   },
