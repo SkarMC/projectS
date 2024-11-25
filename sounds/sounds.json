@@ -409,5 +409,17 @@
       "breath_charge"
     ],
     "category": "player"
+  },
+  "revolver.reload": {
+    "sounds": [
+      "revolver_reload"
+    ],
+    "category": "player"
+  },
+  "revolver.shoot": {
+    "sounds": [
+      "revolver_shoot"
+    ],
+    "category": "player"
   }
 }
