@@ -421,5 +421,17 @@
       "revolver_shoot"
     ],
     "category": "player"
+  },
+  "night.vision.on": {
+    "sounds": [
+      "night_vision_on"
+    ],
+    "category": "player"
+  },
+  "night.vision.off": {
+    "sounds": [
+      "night_vision_off"
+    ],
+    "category": "player"
   }
 }
