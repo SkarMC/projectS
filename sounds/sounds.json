@@ -221,6 +221,12 @@
     ],
     "category": "player"
   },
+  "spider.sense": {
+	"sounds" : [
+	  "spider_sense"
+	],
+	"category": "player"
+  },
   "bells.loop": {
     "sounds": [
       "sleigh_bells"
