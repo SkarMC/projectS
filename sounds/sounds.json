@@ -221,6 +221,30 @@
     ],
     "category": "player"
   },
+  "goblin.mask.open": {
+	"sounds" : [
+	  "green_goblin/goblin_mask_open"
+	],
+	"category": "player"
+  },
+  "goblin.mask.close": {
+	"sounds" : [
+	  "green_goblin/goblin_mask_close"
+	],
+	"category": "player"
+  },
+  "pumpkin.bomb.throw": {
+	"sounds" : [
+	  "green_goblin/pumpkin_bomb_throw"
+	],
+	"category": "player"
+  },
+  "razor.bats.throw": {
+	"sounds" : [
+	  "green_goblin/razor_bats_throw"
+	],
+	"category": "player"
+  },
   "spider.sense": {
 	"sounds" : [
 	  "spider_sense"
