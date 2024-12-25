@@ -305,6 +305,30 @@
     ],
     "category": "player"
   },
+  "beetle.aim.start": {
+    "sounds": [
+      "beetle_aim_start"
+    ],
+    "category": "player"
+  },
+  "beetle.aim.crackle": {
+    "sounds": [
+      "beetle_aim_crackle"
+    ],
+    "category": "player"
+  },
+  "beetle.shoot": {
+    "sounds": [
+      "beetle_shoot"
+    ],
+    "category": "player"
+  },
+  "beetle.mask": {
+    "sounds": [
+      "beetle_mask"
+    ],
+    "category": "player"
+  },
   "chainsaw.loop": {
     "sounds": [
       "chainsaw_loop"
