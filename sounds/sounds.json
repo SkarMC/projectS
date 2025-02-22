@@ -493,5 +493,65 @@
 	  "lasso_shoot"
 	],
     "category": "player"
+  },
+  "ultron.encephalo.ray.charge": {
+	"sounds": [
+	  "ultron/encephalo_ray_charge"
+	],
+    "category": "player"
+  },
+  "ultron.encephalo.ray.start": {
+	"sounds": [
+	  "ultron/encephalo_ray_start"
+	],
+    "category": "player"
+  },
+  "ultron.encephalo.ray.loop": {
+	"sounds": [
+	  "ultron/encephalo_ray_loop"
+	],
+    "category": "player"
+  },
+  "ultron.encephalo.ray.end": {
+	"sounds": [
+	  "ultron/encephalo_ray_end"
+	],
+    "category": "player"
+  },
+  "ultron.aim.start": {
+	"sounds": [
+	  "ultron/ultron_aim_start"
+	],
+    "category": "player"
+  },
+  "ultron.aim.end": {
+	"sounds": [
+	  "ultron/ultron_aim_end"
+	],
+    "category": "player"
+  },
+  "ultron.flight.loop": {
+	"sounds": [
+	  "ultron/ultron_flight_loop"
+	],
+    "category": "player"
+  },
+  "ultron.flight.boost": {
+	"sounds": [
+	  "ultron/ultron_flight_boost"
+	],
+    "category": "player"
+  },
+  "ultron.shoot": {
+	"sounds": [
+	  "ultron/ultron_shoot"
+	],
+    "category": "player"
+  },
+  "ultron.walk": {
+	"sounds": [
+	  "ultron/ultron_walk"
+	],
+    "category": "player"
   }
 }
