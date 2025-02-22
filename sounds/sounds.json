@@ -548,9 +548,9 @@
 	],
     "category": "player"
   },
-  "ultron.walk": {
+  "ultron.step": {
 	"sounds": [
-	  "ultron/ultron_walk"
+	  "ultron/ultron_step"
 	],
     "category": "player"
   }
