@@ -530,18 +530,6 @@
 	],
     "category": "player"
   },
-  "ultron.flight.loop": {
-	"sounds": [
-	  "ultron/ultron_flight_loop"
-	],
-    "category": "player"
-  },
-  "ultron.flight.boost": {
-	"sounds": [
-	  "ultron/ultron_flight_boost"
-	],
-    "category": "player"
-  },
   "ultron.shoot": {
 	"sounds": [
 	  "ultron/ultron_shoot"
