@@ -245,6 +245,24 @@
 	],
 	"category": "player"
   },
+  "machine.gun.charge": {
+	"sounds" : [
+	  "green_goblin/machine_gun_charge"
+	],
+	"category": "player"
+  },
+  "machine.gun.loop": {
+	"sounds" : [
+	  "green_goblin/machine_gun_loop"
+	],
+	"category": "player"
+  },
+  "machine.gun.end": {
+	"sounds" : [
+	  "green_goblin/machine_gun_end"
+	],
+	"category": "player"
+  },
   "spider.sense": {
 	"sounds" : [
 	  "spider_sense"
