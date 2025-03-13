@@ -559,5 +559,29 @@
 	  "ultron/ultron_step"
 	],
     "category": "player"
+  },
+  "wolverine.claw.enable": {
+	"sounds": [
+	  "wolverine/claws_enable"
+	],
+    "category": "player"
+  },
+  "wolverine.claw.disable": {
+	"sounds": [
+	  "wolverine/claws_disable"
+	],
+    "category": "player"
+  },
+  "wolverine.claw.hit": {
+	"sounds": [
+	  "wolverine/claws_hit"
+	],
+    "category": "player"
+  },
+  "wolverine.lunge.land": {
+	"sounds": [
+	  "wolverine/lunge_land"
+	],
+    "category": "player"
   }
 }
