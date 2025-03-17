@@ -221,6 +221,12 @@
     ],
     "category": "player"
   },
+  "mask.stare.loop": {
+    "sounds": [
+      "fnaf/mask_stare_loop"
+    ],
+    "category": "player"
+  },
   "goblin.mask.open": {
 	"sounds" : [
 	  "green_goblin/goblin_mask_open"
