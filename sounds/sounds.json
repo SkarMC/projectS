@@ -77,6 +77,24 @@
     ],
     "category": "player"
   },
+  "toy.chica.step": {
+    "sounds": [
+      "fnaf/toy_chica_step"
+    ],
+    "category": "player"
+  },
+  "toy.bonnie.step": {
+    "sounds": [
+      "fnaf/toy_bonnie_step"
+    ],
+    "category": "player"
+  },
+  "shadow.bonnie.step": {
+    "sounds": [
+      "fnaf/toy_bonnie_step"
+    ],
+    "category": "player"
+  },
   "bonnie.step": {
     "sounds": [
       "fnaf/bonnie_step"
@@ -224,6 +242,12 @@
   "mask.stare.loop": {
     "sounds": [
       "fnaf/mask_stare_loop"
+    ],
+    "category": "player"
+  },
+  "shadow.bonnie.stare.loop": {
+    "sounds": [
+      "fnaf/shadow_bonnie_stare_loop"
     ],
     "category": "player"
   },
