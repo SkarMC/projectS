@@ -91,7 +91,7 @@
   },
   "shadow.bonnie.step": {
     "sounds": [
-      "fnaf/toy_bonnie_step"
+      "fnaf/shadow_bonnie_step"
     ],
     "category": "player"
   },
