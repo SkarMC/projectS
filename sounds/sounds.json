@@ -227,6 +227,12 @@
     ],
     "category": "player"
   },
+  "fnaf2.ambient": {
+    "sounds": [
+      "fnaf/fnaf2_ambient"
+    ],
+    "category": "player"
+  },
   "whispering.loop": {
     "sounds": [
       "fnaf/whispering"
