@@ -251,6 +251,12 @@
     ],
     "category": "player"
   },
+  "shadow.bonnie.stare": {
+    "sounds": [
+      "fnaf/shadow_bonnie_stare"
+    ],
+    "category": "player"
+  },
   "shadow.bonnie.stare.loop": {
     "sounds": [
       "fnaf/shadow_bonnie_stare_loop"
