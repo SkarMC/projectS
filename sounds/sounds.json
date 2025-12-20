@@ -625,5 +625,35 @@
 	  "wolverine/lunge_land"
 	],
     "category": "player"
+  },
+  "fantastic.enable": {
+	"sounds": [
+	  "fantastic_four/fantastic_enable"
+	],
+    "category": "player"
+  },
+  "fantastic.disable": {
+	"sounds": [
+	  "fantastic_four/fantastic_disable"
+	],
+    "category": "player"
+  },
+  "fantastic.grab": {
+	"sounds": [
+	  "fantastic_four/fantastic_grab"
+	],
+    "category": "player"
+  },
+  "fantastic.leap": {
+	"sounds": [
+	  "fantastic_four/fantastic_leap"
+	],
+    "category": "player"
+  },
+  "fantastic.zip": {
+	"sounds": [
+	  "fantastic_four/fantastic_zip"
+	],
+    "category": "player"
   }
 }
