@@ -655,5 +655,17 @@
 	  "fantastic_four/fantastic_zip"
 	],
     "category": "player"
+  },
+  "war.machine.turret.enable": {
+	"sounds": [
+	  "war_machine/turret_enable"
+	],
+    "category": "player"
+  },
+  "war.machine.turret.disable": {
+	"sounds": [
+	  "war_machine/turret_disable"
+	],
+    "category": "player"
   }
 }
