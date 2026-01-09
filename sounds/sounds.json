@@ -668,6 +668,12 @@
 	],
     "category": "player"
   },
+  "war.machine.turret.shoot": {
+	"sounds": [
+	  "war_machine/turret_shoot"
+	],
+    "category": "player"
+  },
   "war.machine.shoot": {
 	"sounds": [
 	  "war_machine/shoot"
