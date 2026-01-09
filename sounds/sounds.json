@@ -667,5 +667,23 @@
 	  "war_machine/turret_disable"
 	],
     "category": "player"
+  },
+  "war.machine.shoot": {
+	"sounds": [
+	  "war_machine/shoot"
+	],
+    "category": "player"
+  },
+  "war.machine.aim.enable": {
+	"sounds": [
+	  "war_machine/aim_enable"
+	],
+    "category": "player"
+  },
+  "war.machine.aim.disable": {
+	"sounds": [
+	  "war_machine/aim_disable"
+	],
+    "category": "player"
   }
 }
