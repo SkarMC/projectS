@@ -697,5 +697,17 @@
 	  "war_machine/missile_shoot"
 	],
     "category": "player"
+  },
+  "war.machine.missile.aim": {
+	"sounds": [
+	  "war_machine/missile_aim"
+	],
+    "category": "player"
+  },
+  "war.machine.missile.stop": {
+	"sounds": [
+	  "war_machine/missile_stop"
+	],
+    "category": "player"
   }
 }
