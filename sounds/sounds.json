@@ -691,5 +691,11 @@
 	  "war_machine/aim_disable"
 	],
     "category": "player"
+  },
+  "war.machine.missile.shoot": {
+	"sounds": [
+	  "war_machine/missile_shoot"
+	],
+    "category": "player"
   }
 }
